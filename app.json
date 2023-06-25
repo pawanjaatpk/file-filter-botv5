@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/malik7983/file-filter-bot",
+    "website": "https://github.com/pawanjaatpk/file-filter-bot",
     "repository": "https://github.com/Maliksahid786/file-filter-botv5",
     "env": {
         "BOT_TOKEN": {
@@ -90,7 +90,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
